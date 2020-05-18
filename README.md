@@ -1,5 +1,5 @@
 # Certificates
-Certificates of all ML/ Data Science/ C++ Courses
+Certificates of all ML/ Data Science/ C++ Courses.
 All certificates can be found in respective folder and can be verified using link shared below
 
 Courses are as under:
