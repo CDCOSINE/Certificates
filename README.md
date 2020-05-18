@@ -4,7 +4,7 @@ Certificates of all ML/ Data Science/ C++ Courses.
 
 Courses are as under:
 
-1. Machine Learning Standfor Coursera 
+1. Machine Learning Standford Coursera 
 https://www.coursera.org/account/accomplishments/verify/D8MBWSCUVC2G?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course
 
 2. Python for Data Science UCSanDiegoX: DSE200x UC SAN DIEGO EDX
