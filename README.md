@@ -31,5 +31,8 @@ https://www.coursera.org/account/accomplishments/verify/XXMU8WXBTAMQ?utm_source=
 9. Machine Learning with Python IBM DATA SCIENCE PROFESSIONAL CERTIFICATE Coursera
 https://www.coursera.org/account/accomplishments/verify/XFQDNSML5VGX?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course
 
+10. Data Visualization with Python IBM DATA SCIENCE PROFESSIONAL CERTIFICATE Coursera
+https://coursera.org/share/e393547a6c83eddc0409afe76906cc46
+
 10. Introduction to Git and GitHub GOOGLE
 https://www.coursera.org/account/accomplishments/verify/BK6K3YAP64WW?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course
