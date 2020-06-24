@@ -34,5 +34,8 @@ https://www.coursera.org/account/accomplishments/verify/XFQDNSML5VGX?utm_source=
 10. Data Visualization with Python IBM DATA SCIENCE PROFESSIONAL CERTIFICATE Coursera
 https://coursera.org/share/e393547a6c83eddc0409afe76906cc46
 
-10. Introduction to Git and GitHub GOOGLE
+11. Introduction to Git and GitHub GOOGLE
 https://www.coursera.org/account/accomplishments/verify/BK6K3YAP64WW?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course
+
+12. Neural Networks and Deep Learning under DEEPLEANING Specialization(Deeplearning.ai) by Coursera
+https://coursera.org/share/211fa35792e25084870ab18d7f550166
